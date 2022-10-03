@@ -1,2 +1,1 @@
-My fist readme,
-How to be up to date in git
+My fist readme
